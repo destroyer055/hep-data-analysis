@@ -1,0 +1,8 @@
+# 1. 告诉 GitHub 忽略所有 HTML 文件的语言统计
+echo "*.html linguist-detectable=false" >> .gitattributes
+
+# 2. 告诉 GitHub 把所有 .ipynb 文件识别为 Python 语言统计
+echo "*.ipynb linguist-language=Python" >> .gitattributes
+
+# 3. 确保 .py 文件被正常统计
+echo "*.py linguist-detectable=true" >> .gitattributes

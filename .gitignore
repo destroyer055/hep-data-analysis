@@ -1,13 +1,14 @@
+# Jupyter Notebook 检查点
 .ipynb_checkpoints/
-*/.ipynb_checkpoints/
-.tmp_extract/
-.work/
-.virtual_documents/
-History/
-Plot-Lise++/
+
+# Python 缓存文件
 __pycache__/
-*.pyc
+*.py[cod]
+
+# 排除其他作业和多余的说明文件夹
+homework1.2/
+Readme/
+
+# 操作系统生成的垃圾文件
 .DS_Store
 Thumbs.db
-.vscode/
-.idea/

@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.tmp_extract/
+.work/
+.virtual_documents/
+History/
+Plot-Lise++/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

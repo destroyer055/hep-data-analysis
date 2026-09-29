@@ -6,7 +6,7 @@ __pycache__/
 *.py[cod]
 
 # 排除其他作业和多余的说明文件夹
-homework1.2/
+
 Readme/
 
 # 操作系统生成的垃圾文件
